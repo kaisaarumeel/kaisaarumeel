@@ -15,7 +15,7 @@ I'm currently doing my Bachelor's studies in Software Engineering and Management
 **Backend**: Java, Python, SQL
 
 
-**Frontend**: CSS & HTML
+**Frontend**: CSS & HTML, JavaScript
 
 - Object oriented programming 
 - Agile project management
