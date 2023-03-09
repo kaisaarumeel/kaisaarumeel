@@ -19,6 +19,8 @@ I'm currently doing my Bachelor's studies in Software Engineering and Management
 
 - Object oriented programming 
 - Agile project management
+- Data Structures and algorithms
+- Requirements engineering & UX design
 
 
 
