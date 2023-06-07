@@ -29,7 +29,6 @@ I'm currently doing my Bachelor's studies in Software Engineering and Management
 **Fun facts about me:**
 - As a side hustle, I work as a private tutor in Maths for Estonian children and highschoolers 📐
 - I'm a windsurfer🏄🏻‍♂️
-- I read approximately 50 books a year📚 and love doing puzzles🧩
 - I speak Estonian🇪🇪, English🇬🇧, French🇫🇷, Russian🇷🇺 and Spanish🇪🇸
 - I ACTUALLY enjoy debugging😄
 
