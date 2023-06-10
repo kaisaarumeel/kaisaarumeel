@@ -30,7 +30,6 @@ I'm currently doing my Bachelor's studies in Software Engineering and Management
 - As a side hustle, I work as a private tutor in Maths for Estonian children and highschoolers 📐
 - I'm a windsurfer🏄🏻‍♂️
 - I speak Estonian🇪🇪, English🇬🇧, French🇫🇷, Russian🇷🇺 and Spanish🇪🇸
-- I ACTUALLY enjoy debugging😄
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaisaarumeel&layout=compact&card_width=1000px)](https://github.com/anuraghazra/github-readme-stats)
 
