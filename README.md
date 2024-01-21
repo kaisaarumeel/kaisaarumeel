@@ -12,17 +12,18 @@ I'm currently doing my Bachelor's studies in Software Engineering and Management
 **So far I have experience in:**
 
 
-**Backend**: Java, Python, SQL
+**Backend**: Java, Python, SQL, MongoDB, Sqlite-3, Typescript, Javascript
 
 
-**Frontend**: CSS & HTML, JavaScript, Svelte
+**Frontend**: CSS & HTML, JavaScript, Svelte, Vue, SolidJS, Typescript
 
 - Object oriented programming 
 - Agile project management
 - Data Structures and algorithms
 - Requirements engineering & UX design
-
-
+- Web development
+- Distributed systems
+- Software Architecture
 
 
 
