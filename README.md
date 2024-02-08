@@ -12,7 +12,7 @@ I'm currently doing my Bachelor's studies in Software Engineering and Management
 **So far I have experience in:**
 
 
-**Backend**: Java, Python, SQL, MongoDB, Sqlite-3, Typescript, Javascript
+**Backend**: Java, C, SQL, MongoDB, Sqlite-3, Typescript, Javascript
 
 
 **Frontend**: CSS & HTML, JavaScript, Svelte, Vue, SolidJS, Typescript
